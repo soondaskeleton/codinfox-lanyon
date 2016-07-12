@@ -9,6 +9,7 @@ logo: '/'
 # Site configurations
 gems:
   - jekyll-paginate
+  - rsoon.github.io
 markdown: kramdown
 kramdown:
   input: GFM
