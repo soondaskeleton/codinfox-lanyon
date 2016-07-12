@@ -12,7 +12,7 @@ logo: '/'
 # Site configurations
 gems:
   - jekyll-paginate
-  - rsoon.github.io
+  
 markdown: kramdown
 kramdown:
   input: GFM
@@ -32,8 +32,8 @@ author:
   description: Admiring <strong>developer</strong>, 'skinny bitch' by Freeman and Barnouin
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
+    linkedin:  https://www.linkedin.com/
+    github:    https://github.com/rsoon
     # facebook:  <hide>
     twitter:   https://twitter.com/
     weibo:     http://weibo.com/
