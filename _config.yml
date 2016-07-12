@@ -6,6 +6,9 @@ baseurl: "/"
 url: http://rsoon.github.io
 logo: '/'
 
+# theme
+ theme: rsoon.github.io
+ 
 # Site configurations
 gems:
   - jekyll-paginate
